@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#74CAF6</color>
+    <color name="colorPrimaryDark">#68B4F1</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="colorBlue">#066E75</color>
+    <color name="colorBackground">#FCFCFC</color>
+    <color name="colorGreen">#0A8D20</color>
+    <color name="colorGrey">#838383</color>
+    <color name="colorWhiteGrey">#F4F4F4</color>
+    <color name="colorPink">#f947e2</color>
+    <color name="colorText">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBorder_stroke">#1B1817</color>
+    <color name="colorBottom_sheet_container">#B1AEAC</color>
+    <color name="colorSearch_text_box">#ECECEC</color>
+    <color name="bottom_sheet_container_color">#D5424242</color>
+    <color name="slider_selected_color">#5A5A5A</color>
+    <color name="slider_unselected_color">#FFF</color>
+    <color name="colorGold">#FFEB3B</color>
+    <color name="colorRedGrey">#AF4C4C</color>
+    <color name="chatBackground">#c0c0c0</color>
+    <color name="chatLayoutBackground">#ECF0F1</color>
+    <color name="timelineGreen">#AEFFBB</color>
+    <color name="colorShowCaseBg">#C6121010</color>
+    <color name="color_chat_receive">#FBFFDF</color>
 </resources>

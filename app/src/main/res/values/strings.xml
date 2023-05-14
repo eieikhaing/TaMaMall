@@ -3,4 +3,18 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="signin">Sign In</string>
+    <string name="password">Password</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_account">Don\'t have account? <font fgcolor='#066E75'>Sign Up</font></string>
+    <string name="welcome_to_tamamall">Welcome To TaMaMall</string>
+    <string name="newsfeed">NewsFeed</string>
+    <string name="my_community">My Community</string>
+    <string name="myanmar">မြန်မာ</string>
+    <string name="eng">ENG</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="date_of_birth">Date Of Birth</string>
 </resources>

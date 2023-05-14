@@ -8,6 +8,8 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import com.kinetichub.tamamall.databinding.FragmentDashboardBinding
+import com.kinetichub.tamamall.navigator.Screens
+import com.kinetichub.tamamall.utilities.provideNavigator
 
 class DashboardFragment : Fragment() {
 
@@ -31,6 +33,9 @@ class DashboardFragment : Fragment() {
         val textView: TextView = binding.textDashboard
         dashboardViewModel.text.observe(viewLifecycleOwner) {
             textView.text = it
+        }
+        textView.setOnClickListener {
+            it.provideNavigator().navigateTo(Screens.DASH_TO_NOTI,null)
         }
         return root
     }
