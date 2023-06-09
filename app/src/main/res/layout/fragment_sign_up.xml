@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="com.kinetichub.tamamall.ui.signup.SignUpViewModel" />
+            type="com.hana.codetest.ui.signup.SignUpViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

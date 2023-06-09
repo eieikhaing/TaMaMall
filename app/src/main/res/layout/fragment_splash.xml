@@ -6,7 +6,7 @@
 
         <variable
             name="splashViewModel"
-            type="com.kinetichub.tamamall.ui.splash.SplashViewModel" />
+            type="com.hana.codetest.ui.splash.SplashViewModel" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

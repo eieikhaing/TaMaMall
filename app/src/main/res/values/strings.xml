@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TaMaMall</string>
+    <string name="app_name">Hana</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
@@ -9,7 +9,6 @@
     <string name="forget_password">Forgot Password?</string>
     <string name="sign_up">Sign Up</string>
     <string name="sign_up_account">Don\'t have account? <font fgcolor='#066E75'>Sign Up</font></string>
-    <string name="welcome_to_tamamall">Welcome To TaMaMall</string>
     <string name="newsfeed">NewsFeed</string>
     <string name="my_community">My Community</string>
     <string name="myanmar">မြန်မာ</string>

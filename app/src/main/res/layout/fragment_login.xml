@@ -6,7 +6,7 @@
 
         <variable
             name="viewModel"
-            type="com.kinetichub.tamamall.ui.login.LoginViewModel"/>
+            type="com.hana.codetest.ui.login.LoginViewModel"/>
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -77,7 +77,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/margin_medium_2"
-                    android:text="@string/welcome_to_tamamall"
                     app:layout_constraintEnd_toEndOf="@+id/iv_logo"
                     app:layout_constraintStart_toStartOf="@+id/iv_logo"
                     app:layout_constraintTop_toBottomOf="@+id/iv_logo" />
